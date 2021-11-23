@@ -6,6 +6,9 @@ Plik projektowy ze środowiska [GNAT Studio | Adacore](https://www.adacore.com/g
 ## Algorytm Dekkera
 Algortym Dekkera rozwiązuje problem wzajemnego wykluczania, czyli zapewnia własność bezpieczeństwa [programu współbieżnego](https://pl.wikipedia.org/wiki/Przetwarzanie_wsp%C3%B3%C5%82bie%C5%BCne).
 
+Zobacz też -> [Algorytm Petersona]9https://github.com/KGratkiewicz/Algorytm-Petersona-ADA.git) <_ który pełni tę samą funkcję !
+
+
 ### Problem wzajemnego wykluczania
 Problem wzajemnego wykluczania występuje wtedy kiedy conajmniej dwa procesy, chcą skorzystać z zasobu współdzielonego. Muszą one jednak skorzystać z niego jeden po drugim, aby nie "wtrącać się" jeden drugiemu. Dostęp do takiego zasobu współdzielonego nazywa się sekcją krytyczną procesu. W naszym przypadku zasobem współdzielonym jest ekran konsoli.
 
