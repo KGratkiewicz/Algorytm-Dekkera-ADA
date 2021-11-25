@@ -41,7 +41,7 @@ procedure main is
                while czyja_kolej = val(nr_zadania) loop
                   null;
                end loop;
-               K(nr_zadania) := 1;
+               K(nr_zadania) := 0;
             end if;
          end loop;
 
