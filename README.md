@@ -15,6 +15,9 @@ Problem wzajemnego wykluczania występuje wtedy kiedy conajmniej dwa procesy, ch
 ## Treść zadania
 Ćwiczenie 3 - Utworzyć 2 zadania tego samego typu zadaniowego wypisujące na ekranie w 2 kolumnach po 10 razy: _"Zadanie nr po raz k"_ gdzie k- aktualna iteracja, nr - numer zadania. Wprowadzić przerwy pomiędzy interacjami o losowej długości.
 
+Zobacz też inne rozwiązanie tego zadania -> [Randka z Adą](https://github.com/KGratkiewicz/Mechanizm-Spotkan-ADA.git) <- mechanizmem spotkań !
+
+
 ## Działanie programu
 Program swoją *sekcję lokalną* symuluje poprzez wykonanie opóźnienia `delay` o losowym czasie trwania. W *sekcji krytycznej* program jest dopuszczany do wykonania wypisania na ekranie. W przypadku niezastosowania synchronizacji dostępu do ekranu konsoli, możemy otrzymać wypisane ciągi procesu P1 wraz z ciągiem procesu P2.
 
