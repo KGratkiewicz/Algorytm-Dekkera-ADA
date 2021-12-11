@@ -57,7 +57,7 @@ Zadanie  1 po raz  9
 Zadanie  1 po raz 10
 ```
 
-### Kod żródłowy 
+### Kod źródłowy 
 
 lokalizajca:
 
